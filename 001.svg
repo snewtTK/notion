@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="476" height="592" viewBox="0 0 476 592">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 168 188">
+      <image width="168" height="188" xlink:href="001-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 167 167">
+      <image width="167" height="167" xlink:href="001-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 167 167">
+      <image width="167" height="167" xlink:href="001-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 84 84">
+      <image width="84" height="84" xlink:href="001-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 84 84">
+      <image width="84" height="84" xlink:href="001-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 85 84">
+      <image width="85" height="84" xlink:href="001-image6.png"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 220 220">
+      <image width="220" height="220" xlink:href="../Dropbox%20(Acquis)/17.%20Clients/AmEx/amex%20office%20insights%20-%20srn/cleanOfficePics_Amex/newyorkcity1.png"/>
+    </pattern>
+    <clipPath id="clip-_001">
+      <rect width="476" height="592"/>
+    </clipPath>
+  </defs>
+  <g id="_001" data-name="001" clip-path="url(#clip-_001)">
+    <rect width="476" height="592" fill="#fff"/>
+    <g id="noLink">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="206" height="45" transform="translate(270 532)" fill="#848b9a"/>
+      <text id="forBadge" transform="translate(279 535)" fill="#fff" font-size="11" font-family="GillSans, Gill Sans"><tspan x="0" y="10">for badge access, request in II-Q</tspan></text>
+      <rect id="badgeAccess" width="40" height="45" transform="translate(230 532)" fill="url(#pattern)"/>
+      <path id="Rectangle_10" data-name="Rectangle 10" d="M0,0H194a12,12,0,0,1,12,12V40a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(270 240)" fill="#427cbf"/>
+      <text id="Location_Highlights" data-name="Location Highlights" transform="translate(280 253)" fill="#fff" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="11">Location Highlights</tspan></text>
+      <rect id="locationhighlights" width="40" height="40" transform="translate(230 240)" fill="url(#pattern-2)"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="246" height="155" transform="translate(230 280)" fill="#f7f7f7"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="220" height="35" transform="translate(0 280)" fill="#f7f7f7"/>
+      <text id="amenity1" transform="translate(10 285)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">On-site wellness center</tspan><tspan font-size="10"><tspan x="0" y="24">38th floor</tspan></tspan></text>
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="220" height="35" transform="translate(0 320)" fill="#f7f7f7"/>
+      <text id="amenity2" transform="translate(10 325)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Fitness center</tspan><tspan font-size="10"><tspan x="0" y="24">view member rates</tspan></tspan></text>
+      <rect id="Rectangle_14-3" data-name="Rectangle 14" width="220" height="35" transform="translate(0 360)" fill="#f7f7f7"/>
+      <text id="amenity3" transform="translate(10 365)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Cafeteria</tspan><tspan font-size="10"><tspan x="0" y="24">4th floor</tspan></tspan></text>
+      <rect id="Rectangle_14-4" data-name="Rectangle 14" width="220" height="35" transform="translate(0 400)" fill="#f7f7f7"/>
+      <text id="amenity4" transform="translate(10 405)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Micro markets</tspan><tspan font-size="10"><tspan x="0" y="24">38th floor</tspan></tspan></text>
+      <rect id="Rectangle_14-5" data-name="Rectangle 14" width="220" height="35" transform="translate(0 440)" fill="#f7f7f7"/>
+      <text id="amenity5" transform="translate(10 450)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Nursing mother rooms</tspan></text>
+      <rect id="Rectangle_14-6" data-name="Rectangle 14" width="220" height="35" transform="translate(0 480)" fill="#f7f7f7"/>
+      <text id="amenity6" transform="translate(10 490)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Complimentary snacks &amp; coffee</tspan></text>
+      <rect id="Rectangle_14-7" data-name="Rectangle 14" width="220" height="35" transform="translate(0 520)" fill="#f7f7f7"/>
+      <text id="amenity7" transform="translate(10 525)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">Daily $15 food allowance</tspan><tspan font-size="10"><tspan x="0" y="24">via </tspan><tspan y="24" text-decoration="underline">FOOD2YOU app</tspan><tspan y="24" xml:space="preserve"> | Code: 0200</tspan></tspan></text>
+      <rect id="Rectangle_14-8" data-name="Rectangle 14" width="220" height="35" transform="translate(0 561)" fill="#f7f7f7"/>
+      <text id="amenity1-2" data-name="amenity1" transform="translate(10 566)" fill="#32363e" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">On-site wellness center</tspan><tspan font-size="10"><tspan x="0" y="24">38th floor</tspan></tspan></text>
+      <path id="Rectangle_9" data-name="Rectangle 9" d="M0,0H168a12,12,0,0,1,12,12V40a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(40 240)" fill="#427cbf"/>
+      <text id="Office_Amenities" data-name="Office Amenities" transform="translate(50 253)" fill="#fff" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="11">Office Amenities</tspan></text>
+      <rect id="officeamenities" width="40" height="40" transform="translate(0 240)" fill="url(#pattern-3)"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="214" height="40" transform="translate(262 180)" fill="#f2f8f8"/>
+      <rect id="Icon3" width="40" height="40" rx="8" transform="translate(230 180)" fill="url(#pattern-4)"/>
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="214" height="40" transform="translate(262 130)" fill="#f2f8f8"/>
+      <rect id="Icon2" width="40" height="40" rx="8" transform="translate(230 130)" fill="url(#pattern-5)"/>
+      <rect id="Rectangle_5-3" data-name="Rectangle 5" width="214" height="40" transform="translate(262 80)" fill="#f2f8f8"/>
+      <rect id="Icon1" width="40" height="40" rx="8" transform="translate(230 80)" fill="url(#pattern-6)"/>
+      <rect id="OfficePic" width="220" height="220" fill="url(#pattern-7)"/>
+    </g>
+    <g id="_001-2" data-name="001">
+      <text id="requestText" transform="translate(279 551)" fill="#fff" font-size="11" font-family="Verdana"><tspan x="0" y="11">US-NEW YORK-TOWER-GENERAL </tspan><tspan x="0" y="22">BUILDING ACCESS</tspan></text>
+      <text id="Highlight3" transform="translate(240 391)" fill="#32363e" font-size="11" font-family="Tahoma"><tspan x="0" y="11">Free/discounted entry to museums, cultural </tspan><tspan x="0" y="26">events with </tspan><tspan y="26" text-decoration="underline">Amex Culture Card</tspan></text>
+      <text id="Highlight2" transform="translate(240 338)" fill="#32363e" font-size="11" font-family="Tahoma"><tspan x="0" y="11">Steps away from NYC landmarks (Wall St, </tspan><tspan x="0" y="26">World Trade Center, Statue of Liberty, etc)</tspan></text>
+      <text id="Highlight1" transform="translate(240 300)" fill="#32363e" font-size="11" font-family="Tahoma"><tspan x="0" y="11">Easy access via public transit (subway, PATH)</tspan></text>
+      <text id="KeyFeature3" transform="translate(280 205)" fill="#32363e" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Excellent amenities available</tspan></text>
+      <text id="KeyFeature2" transform="translate(280 155)" fill="#32363e" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Hotels within walking distance</tspan></text>
+      <text id="KeyFeature1" transform="translate(280 105)" fill="#32363e" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">On-site tech concierge</tspan></text>
+      <path id="TopHeadline" d="M0,0H246a0,0,0,0,1,0,0V58a12,12,0,0,1-12,12H12A12,12,0,0,1,0,58V0A0,0,0,0,1,0,0Z" transform="translate(230)" fill="#07508c"/>
+      <text id="addressLine2" transform="translate(244 57)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">New York, NY 10285</tspan></text>
+      <text id="addressLine1" transform="translate(244 43)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">220 Vesey St</tspan></text>
+      <text id="OfficeName" transform="translate(240 5)" fill="#fff" font-size="18" font-family="Helvetica"><tspan x="0" y="14">New York City Office</tspan></text>
+    </g>
+  </g>
+</svg>
